@@ -1,0 +1,44 @@
+Food Item,Mean Price (₦),Std Dev (₦),CV (%),Min Price (₦),Max Price (₦),Cheapest State (avg),Most Expensive State (avg),Highest Price State,Highest Price Period,Lowest Price State,Lowest Price Period,MoM Trend (%),Total Change (%),Annual Avg Change (%),Most Volatile State
+Agric eggs medium size,746.53,551.07,73.8,247.92,3600.65,Borno,Enugu,Gombe,2024M12,Borno,2016M1,1.68,438.8,54.9,Gombe
+Agric eggs(medium size price of one),69.25,125.98,181.9,26.31,7421.0,Borno,Lagos,Lagos,2022M1,Ogun,2016M1,1.71,428.4,53.5,Lagos
+"Beans brown,sold loose",604.71,601.16,99.4,127.53,3750.0,Yobe,Ebonyi,Bauchi,2024M10,Yobe,2020M3,1.98,620.5,77.6,Bauchi
+Beans:white black eye. sold loose,563.4,568.62,100.9,116.45,3199.58,Yobe,Ebonyi,Akwa Ibom,2024M10,Katsina,2016M1,2.05,667.9,83.5,Bauchi
+Beef Bone in,1585.56,1092.88,68.9,563.38,6466.67,Taraba,Bayelsa,Akwa Ibom,2024M12,Ondo,2018M1,1.59,379.0,47.4,Osun
+"Beef,boneless",1977.77,1285.14,65.0,759.36,7316.2,Borno,Ebonyi,Enugu,2024M12,Taraba,2016M4,1.58,373.6,46.7,Niger
+Bread sliced 500g,482.28,350.84,72.7,131.79,1890.0,Yobe,Bayelsa,Akwa Ibom,2024M12,Jigawa,2016M1,1.66,390.6,48.8,Gombe
+Bread unsliced 500g,448.34,332.68,74.2,133.33,1823.75,Yobe,Bayelsa,Delta,2024M12,Jigawa,2016M1,1.69,390.4,48.8,Kwara
+Broken Rice (Ofada),621.92,537.57,86.4,108.7,3500.0,Kebbi,Lagos,Osun,2024M12,Taraba,2016M3,1.72,495.5,61.9,Osun
+Catfish (obokun) fresh,1413.21,931.49,65.9,172.14,5899.23,Anambra,Akwa Ibom,Rivers,2024M7,Anambra,2019M3,1.36,296.2,37.0,Anambra
+Catfish :dried,2224.87,1301.63,58.5,313.33,24780.05,Jigawa,Imo,Imo,2018M10,Anambra,2019M8,0.88,153.5,19.2,Anambra
+Catfish Smoked,1857.46,876.04,47.2,133.33,7331.05,Jigawa,Enugu,Yobe,2024M8,Jigawa,2019M12,0.76,125.9,15.7,Anambra
+Chicken Feet,1064.44,835.97,78.5,151.53,5715.05,Taraba,Anambra,Niger,2024M12,Jigawa,2019M8,1.44,333.2,41.7,Abuja
+Chicken Wings,1412.88,1045.17,74.0,400.0,6120.0,Taraba,Anambra,Ondo,2024M12,Bauchi,2018M3,1.49,371.9,46.5,Niger
+Dried Fish Sardine,1799.32,1006.72,56.0,134.28,7669.01,Jigawa,Enugu,Nassarawa,2024M12,Jigawa,2019M8,0.99,173.8,21.7,Anambra
+Evaporated tinned milk carnation 170g,286.08,298.35,104.3,100.0,3288.95,Kogi,Anambra,Anambra,2024M4,Zamfara,2016M8,1.77,484.0,60.5,Gombe
+"Evaporated tinned milk(peak), 170g",337.88,298.67,88.4,120.0,2520.0,Niger,Anambra,Kwara,2024M4,Jigawa,2016M9,1.72,490.5,61.3,Kwara
+Frozen chicken,2296.0,1296.77,56.5,775.0,12000.0,Taraba,Enugu,Yobe,2024M12,Kano,2016M3,1.35,313.2,39.1,Anambra
+"Gari white,sold loose",379.74,404.1,106.4,83.5,4566.07,Kwara,Anambra,Anambra,2024M4,Osun,2016M1,1.75,494.0,61.8,Gombe
+"Gari yellow,sold loose",377.84,287.65,76.1,95.43,1720.0,Anambra,Bayelsa,Gombe,2024M12,Cross River,2019M7,1.62,437.4,54.7,Anambra
+Groundnut oil: 1 bottle,932.33,707.59,75.9,211.22,4133.33,Jigawa,Ebonyi,Ekiti,2024M12,Jigawa,2019M8,1.85,505.6,63.2,Jigawa
+Iced Sardine,1308.93,823.31,62.9,263.55,5850.39,Jigawa,Imo,Gombe,2024M12,Jigawa,2019M1,1.49,336.0,42.0,Jigawa
+Irish potato,534.7,608.65,113.8,129.39,5508.43,Borno,Anambra,Anambra,2024M4,Bauchi,2016M1,2.13,746.5,93.3,Kogi
+Mackerel : frozen,1359.63,940.03,69.1,122.18,9049.65,Jigawa,Ebonyi,Ekiti,2016M11,Jigawa,2019M7,1.5,328.7,41.1,Anambra
+Maize grain white sold loose,308.97,269.37,87.2,55.36,1800.0,Katsina,Bayelsa,Adamawa,2024M12,Plateau,2016M2,2.03,656.4,82.1,Taraba
+Maize grain yellow sold loose,365.6,385.31,105.4,53.65,3704.12,Katsina,Bayelsa,Anambra,2024M4,Nassarawa,2016M1,1.94,685.0,85.6,Kwara
+Mudfish (aro) fresh,1383.88,880.2,63.6,183.33,5939.74,Anambra,Edo,Oyo,2024M9,Anambra,2019M7,1.29,295.2,36.9,Anambra
+Mudfish : dried,2198.4,1163.35,52.9,182.2,14433.33,Jigawa,Abia,Kebbi,2022M1,Jigawa,2019M9,0.82,191.3,23.9,Jigawa
+Onion bulb,406.3,395.86,97.4,61.14,3286.92,Adamawa,Cross River,Ebonyi,2024M12,Jigawa,2020M2,1.91,493.9,61.7,Adamawa
+Palm oil: 1 bottle,796.91,547.78,68.7,256.0,4586.27,Niger,Anambra,Anambra,2024M4,Niger,2016M1,1.71,442.6,55.3,Ogun
+Plantain(ripe),426.09,410.97,96.5,108.33,3000.0,Taraba,Bayelsa,Kwara,2024M4,Gombe,2021M3,1.85,513.9,64.2,Kwara
+Plantain(unripe),416.99,414.24,99.3,113.29,2955.0,Yobe,Bayelsa,Kwara,2024M4,Cross River,2019M6,1.9,543.1,67.9,Cross River
+Rice Medium Grained,603.85,504.11,83.5,133.94,3506.09,Adamawa,Anambra,Anambra,2024M4,Zamfara,2016M1,1.88,569.6,71.2,Kogi
+Rice agric sold loose,601.2,505.17,84.0,142.31,3894.64,Kebbi,Bayelsa,Kwara,2024M4,Jigawa,2016M1,1.78,512.7,64.1,Nassarawa
+Rice local sold loose,566.44,499.66,88.2,117.05,3215.0,Benue,Bayelsa,Kwara,2024M4,Gombe,2016M1,1.9,573.4,71.7,Kogi
+"Rice,imported high quality sold loose",683.98,551.68,80.7,182.67,3350.33,Borno,Bayelsa,Kwara,2024M12,Sokoto,2016M1,1.89,519.7,65.0,Kwara
+Sweet potato,259.26,267.86,103.3,56.83,1989.04,Borno,Bayelsa,Cross River,2024M11,Taraba,2018M1,2.12,658.3,82.3,Cross River
+Tilapia fish (epiya) fresh,1220.03,924.6,75.8,84.98,6440.75,Taraba,Edo,Ebonyi,2024M12,Jigawa,2019M8,1.43,314.4,39.3,Bayelsa
+Titus:frozen,1416.35,1021.4,72.1,197.8,5862.69,Anambra,Abia,Ebonyi,2024M12,Anambra,2019M3,1.7,426.0,53.2,Anambra
+Tomato,476.13,473.52,99.5,54.98,4917.16,Adamawa,Anambra,Anambra,2024M4,Kaduna,2016M3,1.73,412.6,51.6,Nassarawa
+Vegetable oil:1 bottle,891.03,675.49,75.8,180.71,4100.0,Jigawa,Ekiti,Ekiti,2024M12,Bayelsa,2019M1,1.84,505.6,63.2,Bayelsa
+Wheat flour: prepacked (golden penny 2kg),1065.09,828.33,77.8,130.5,5463.63,Anambra,Abuja,Niger,2024M12,Anambra,2019M3,1.78,450.1,56.3,Anambra
+Yam tuber,446.42,473.26,106.0,96.39,4200.11,Borno,Bayelsa,Kwara,2024M12,Katsina,2019M7,2.11,698.9,87.4,Kwara

@@ -1,0 +1,44 @@
+Food Item,Avg Monthly Price (₦),MoM Slope (₦),MoM Change (%),R²,Cheapest Month,Most Expensive Month
+Irish potato,534.7,11.38,2.13,0.631,Jan,Jun
+Sweet potato,259.26,5.51,2.12,0.575,Jan,Dec
+Yam tuber,446.42,9.41,2.11,0.498,Jan,Dec
+Beans:white black eye. sold loose,563.4,11.58,2.05,0.439,Jan,Oct
+Maize grain white sold loose,308.97,6.27,2.03,0.59,Jan,Dec
+"Beans brown,sold loose",604.71,11.94,1.98,0.416,Jan,Oct
+Maize grain yellow sold loose,365.6,7.09,1.94,0.727,Jan,Dec
+Onion bulb,406.3,7.76,1.91,0.484,Mar,Dec
+Plantain(unripe),416.99,7.94,1.9,0.541,Jan,Dec
+Rice local sold loose,566.44,10.74,1.9,0.609,Jan,Dec
+"Rice,imported high quality sold loose",683.98,12.92,1.89,0.565,Jan,Dec
+Rice Medium Grained,603.85,11.37,1.88,0.606,Jan,Dec
+Plantain(ripe),426.09,7.89,1.85,0.537,Jan,Dec
+Groundnut oil: 1 bottle,932.33,17.23,1.85,0.652,Jan,Dec
+Vegetable oil:1 bottle,891.03,16.43,1.84,0.646,Jan,Dec
+Rice agric sold loose,601.2,10.73,1.78,0.603,Jan,Dec
+Wheat flour: prepacked (golden penny 2kg),1065.09,18.99,1.78,0.552,Jan,Dec
+Evaporated tinned milk carnation 170g,286.06,5.05,1.77,0.684,Jan,Dec
+"Gari white,sold loose",379.74,6.66,1.75,0.601,Jan,Nov
+Tomato,476.13,8.25,1.73,0.48,Jan,Jun
+Broken Rice (Ofada),621.92,10.71,1.72,0.445,Jan,Dec
+"Evaporated tinned milk(peak), 170g",337.88,5.8,1.72,0.723,Jan,Dec
+Palm oil: 1 bottle,796.91,13.64,1.71,0.74,Jan,Dec
+Agric eggs(medium size price of one),69.25,1.18,1.71,0.523,Feb,Dec
+Titus:frozen,1416.35,24.06,1.7,0.617,Jan,Dec
+Bread unsliced 500g,448.34,7.6,1.69,0.556,Jan,Dec
+Agric eggs medium size,746.53,12.51,1.68,0.524,Jan,Dec
+Bread sliced 500g,482.28,8.03,1.66,0.558,Jan,Dec
+"Gari yellow,sold loose",377.84,6.1,1.62,0.477,Jan,Nov
+Beef Bone in,1585.56,25.25,1.59,0.565,Jan,Dec
+"Beef,boneless",1977.77,31.19,1.58,0.609,Jan,Dec
+Mackerel : frozen,1359.63,20.41,1.5,0.557,Jan,Nov
+Chicken Wings,1412.88,21.05,1.49,0.565,Jan,Dec
+Iced Sardine,1308.93,19.55,1.49,0.625,Jan,Dec
+Chicken Feet,1064.44,15.29,1.44,0.464,Jan,Dec
+Tilapia fish (epiya) fresh,1220.03,17.47,1.43,0.462,Jan,Dec
+Catfish (obokun) fresh,1413.21,19.27,1.36,0.519,Jan,Dec
+Frozen chicken,2296.0,30.95,1.35,0.666,Jan,Dec
+Mudfish (aro) fresh,1383.88,17.81,1.29,0.492,Jan,Dec
+Dried Fish Sardine,1799.32,17.85,0.99,0.423,Jan,Dec
+Catfish :dried,2224.87,19.57,0.88,0.383,Jan,Dec
+Mudfish : dried,2198.4,18.11,0.82,0.406,Jan,Dec
+Catfish Smoked,1857.46,14.03,0.76,0.35,Jan,Dec
